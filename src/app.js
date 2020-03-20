@@ -5,7 +5,15 @@ let currentTeam = "Manchester FC";
 let trophiesWon = 27;
 
 //Write your function here
-
+function createmanager() {
+  let manager = [
+    managerName:
+    managerAge:
+    currentTeam:
+    trophiesWon:
+  ]
+  
+}
 // Don't edit the following code
 try {
   var manager = createManager(
